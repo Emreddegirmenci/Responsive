@@ -1,0 +1,44 @@
+@media (min-width: 320px) and (max-width: 495px){
+    div.input-group{
+        width:55%;
+        margin-left:35px;
+    }
+    div#solyanmenu.col-md-3{
+        width:120%;  
+    }
+    div.carousel-inner{
+        width: 120%;
+    }
+    a.right.carousel-control{
+        margin-right:-80px;
+    }}
+    
+    @media (min-width: 496px) and (max-width: 585px){
+        div.input-group{
+        width:55%;
+        margin-left:35px;
+    }
+    }
+    @media (min-width: 586px) and (max-width: 619px){
+        div.input-group{
+        width:55%;
+        margin-left:35px;
+    }
+    }
+    @media (min-width:768px) and (max-width:1023px){
+        div.input-group{
+            width: 80%;
+            margin-left:30px;
+        }
+    }
+    a.icon-block {
+        display:inline-block;
+        float:left;
+        text-align:center;
+    }
+    
+    a.icon-block i,
+    a.icon-block span {
+        display:block;
+        clear:both;
+    }

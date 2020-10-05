@@ -1,0 +1,21 @@
+@media (min-width: 451px) and (max-width: 585px){
+    div.input-group{
+        width:85%;
+        margin-left:28px;
+    }}
+    @media (min-width: 586px) and (max-width: 627px){
+    div.input-group{
+        width:85%;
+        margin-left:28px;      
+ }}
+ a.icon-block {
+    display:inline-block;
+    float:left;
+    text-align:center;
+}
+
+a.icon-block i,
+a.icon-block span {
+    display:block;
+    clear:both;
+}

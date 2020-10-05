@@ -1,0 +1,58 @@
+@media (min-width: 320px) and (max-width: 495px){
+    div.input-group{
+        width:55%;
+        margin-left:35px;
+    }
+    div#solyanmenu.col-md-3{
+        margin-top:80px;   
+    }}
+    @media (min-width: 496px) and (max-width: 585px){
+        div.input-group{
+        width:55%;
+        margin-left:35px;
+    }
+    div#solyanmenu.col-md-3{
+        margin-top:50px;   
+    }}
+    @media (min-width: 586px) and (max-width: 619px){
+        div.input-group{
+        width:55%;
+        margin-left:35px;
+    }
+    div#solyanmenu.col-md-3{
+        margin-top:50px;   
+    }}
+    @media (min-width: 768px) and (max-width: 1024px){
+    
+    div#solyanmenu.col-md-3{
+        margin-top:50px;   
+    }}
+    
+    @media (min-width: 320px) and (max-width:345px){
+     div.row{
+         margin-top: 15px;
+     }
+    }
+    @media (min-width:768px) and (max-width:1023px){
+        div.input-group{
+            width:85%;
+            margin-left:20px;
+        }
+    }
+    @media screen and (min-width:1025px) {
+        div.row{
+            margin-top:30px;
+        }
+    }
+    
+    a.icon-block {
+        display:inline-block;
+        float:left;
+        text-align:center;
+    }
+    
+    a.icon-block i,
+    a.icon-block span {
+        display:block;
+        clear:both;
+    }

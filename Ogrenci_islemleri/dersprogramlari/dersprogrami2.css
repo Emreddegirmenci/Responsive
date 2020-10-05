@@ -1,0 +1,46 @@
+/* Çevre, Çevre İÖ, Elohab İÖ ve Makine İÖ bölümlerinin medya kodları aşağıdaki gibidir*/
+
+
+@media(min-width: 320px) and (max-width:585px){
+    div.row{
+    width:170%;
+    }
+    div.input-group{
+        width:83%;
+        margin-left:35px;
+    }}
+    @media(min-width: 586px) and (max-width:767px){
+     div.input-group{
+         width:83%;
+         margin-left:35px;
+     }
+     div.panel{
+         width: 96%;
+     }
+    }
+    @media(min-width: 768px) and (max-width:1023px){
+        div.input-group{
+            width:90%;
+            margin-left:8px;
+        }
+        div.panel{
+            width: 96%;
+        }
+    }
+    @media(min-width: 320px) and (max-width:333px){
+        div#icerik.col-md-9{
+        width: 115%;
+        margin-left:-18px;}
+    } 
+    a.icon-block {
+        display:inline-block;
+        float:left;
+        text-align:center;
+    }
+    
+    a.icon-block i,
+    a.icon-block span {
+        display:block;
+        clear:both;
+    }
+    

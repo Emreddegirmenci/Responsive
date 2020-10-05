@@ -1,0 +1,50 @@
+@media (min-width:320px) and (max-width:451px){
+    div.input-group{
+        width: 50%;
+        margin-left:20px;
+    }
+    div#solyanmenu.col-md-3{
+        margin-top:80px;
+    }
+    }
+    @media (min-width:452px) and (max-width:585px){
+    div.input-group{
+        width: 70%;
+        margin-left:25px;
+   }
+   div#solyanmenu.col-md-3{
+       margin-top:50px;
+   }  }      
+   @media (min-width:586px) and (max-width:767px){
+    div.input-group{
+        width: 70%;
+        margin-left:25px;
+   }
+   div#solyanmenu.col-md-3{
+       margin-top:50px;
+   }  }                                     
+   @media (min-width:768px) and (max-width:1024px){
+       div.input-group{
+           width: 80%;
+           margin-left:30px;
+       }  
+   div#solyanmenu.col-md-3{
+       margin-top:50px;
+   }    }   
+   @media screen and (min-width:1025px) {
+    div.row{
+        margin-top:40px;
+    }
+}
+
+   a.icon-block {
+    display:inline-block;
+    float:left;
+    text-align:center;
+}
+
+a.icon-block i,
+a.icon-block span {
+    display:block;
+    clear:both;
+}     
